@@ -17,3 +17,7 @@ print('feature_branch1: commit 2')
 print('feature_branch1: commit 3')
 
 print('develop: commit 4')
+
+print('release_branch: commit 1')
+
+print('release_branch: commit 2')
