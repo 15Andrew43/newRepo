@@ -22,9 +22,14 @@ print('release_branch: commit 1')
 
 print('release_branch: commit 2')
 
+
 print('feature_branch3: commit 1')
 
 print('feature_branch3: commit 2')
 
 print('feature_branch3: commit 3')
 
+
+print('release_branch: commit 3')
+
+print('release_branch: commit 4')
