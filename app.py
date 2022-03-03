@@ -10,6 +10,15 @@ print('develop: commit 2')
 print('develop: commit 3')
 
 
+print('feature_branch2: commit 1')
+
+print('feature_branch2: commit 2')
+
+print('feature_branch2: commit 3')
+
+print('feature_branch2: commit 4')
+
+
 print('feature_branch1: commit 1')
 
 print('feature_branch1: commit 2')
@@ -33,3 +42,4 @@ print('feature_branch3: commit 3')
 print('release_branch: commit 3')
 
 print('release_branch: commit 4')
+
